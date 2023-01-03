@@ -1,0 +1,10 @@
+let game
+let ps 
+let vers
+let pers
+let avtor
+let lang
+let langVers
+let kart
+let sayt
+let interLang
